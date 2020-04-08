@@ -1,0 +1,35 @@
+body{
+		text-align:center;
+		margin:0;
+		padding:0;
+		font-family:century gothic;
+		background:url(sky.jpg);
+		background-size:cover;
+		
+}
+.control{
+		width:600px;
+		background:transparent;
+		outline:none;
+		border-bottom:1px sloid gray
+		color:#fff;
+		font-size:18px;
+		margin-bottom:16px;
+}
+input{
+		height:45px;
+}
+.fcon{
+		background-color:gray;
+		border-color:transparent;
+		color:#fff;
+		font-size:20px;
+		letter-spacing:2px;
+		height:30px;
+		transition:0.4s ease;
+}
+.fcon:hover{
+		background-color:#f44336;
+		cursor:pointer;
+}
+

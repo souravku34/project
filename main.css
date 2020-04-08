@@ -1,0 +1,107 @@
+div{
+		
+		height:470px;
+		background-color:#293f50;
+		letter-spacing:5px;
+		margin:-8px;
+	}
+	.first {
+		
+		margin-left:110px;
+		padding:60px;
+		float: left;
+		font-size: 65px;
+		font-weight: 100;
+		letter-spacing: .5px;
+		text-transform: uppercase;
+}	
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  color: #a9b2b9;
+  }
+.quotes{
+	margin: 80px 90px;
+  text-align: right;
+  text-transform:capitalize;
+  color:white;
+}
+.qwe{
+		margin:55px;
+		text-transform:uppercase;
+		padding-top:0px;
+		color:white;	
+		margin:30px 30px;
+}
+.qwer{
+		text-transform:uppercase;
+		color:white;
+}
+.btn {
+  border-radius: 5px;
+  letter-spacing:1px;
+  margin: 150px;
+  text-transform: uppercase;
+  border: 1px solid #fff;
+  padding: 10px 30px;
+}
+.btn:hover {
+  background: white;
+  color: #648880;
+}
+.mydiv{
+		background-color:white;
+		margin:30px;
+		width:250px;
+		padding:60px;	
+		float:left;
+		color:grey;
+}
+.mydiv a{
+		color:grey;
+		text-decoration: none;
+}
+.thrdiv{
+		color:grey;
+		float:left;
+		background-color:white;
+		width:250px;
+		padding:60px;
+		margin:30px;	
+}
+.thrdiv a{
+		color:grey;
+		text-decoration: none;
+}
+ .secdiv{
+		color:grey;
+		float:left;
+		background-color:white;
+		width:250px;
+		padding:60px;
+		margin:0px;		
+}
+.secdiv a{
+		color:grey;
+		text-decoration: none;
+}
+.ftdiv{
+		color: #a9b2b9;
+		letter-spacing:.5px;
+		text-transform: capitalize;
+		padding:30px 190px;
+		
+}
+.fdiv{
+		
+		padding:30px 230px;
+}
+.fadiv{
+		color:black;
+		height:90px;
+		text-transform: uppercase;
+		
+		
+}
